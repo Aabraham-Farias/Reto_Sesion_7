@@ -80,7 +80,7 @@ paises_español2 %>% ggplot(aes( x = CountryCode, y=Percentage, fill = IsOfficia
   geom_bin2d() +
   coord_flip()
 
-
+#Aqui probando
 
 
 
